@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Navbar from '@/components/navbar';
+import Layout from '@/components/Layout';
 
 export default function App({ Component, pageProps }) {
-  return <Navbar><Component {...pageProps} /></Navbar>
+  return <Layout><Component {...pageProps} /></Layout>
 }

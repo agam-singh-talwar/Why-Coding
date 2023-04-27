@@ -10,7 +10,7 @@ return (
             {props.children}
         </Container>
         <br />
-        <Nav className="navbar fixed-bottom navbar-light bg-light">
+        <Nav className="navbar  navbar-light bg-light">
         <div className="container text-center">
         <a className="navbar-brand" href="#">All contents' copyright belong to ????.</a>
         </div>

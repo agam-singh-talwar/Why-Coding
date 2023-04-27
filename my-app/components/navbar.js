@@ -2,14 +2,14 @@ import { Nav, Navbar, Button, Dropdown } from "react-bootstrap";
 export default function navbar(){
   return(
     <>
-    <Navbar bg="light" expand="lg">
+    <Navbar fixed="top" bg="light" expand="lg">
         <div className="container text-center">
           <Navbar.Brand href="#">BSD</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
-              <Nav.Link href="#">Home</Nav.Link>
-              <Nav.Link href="#">Curriculum</Nav.Link>
+              <Nav.Link href="/">Home</Nav.Link>
+              <Nav.Link href="/curriculum">Curriculum</Nav.Link>
               <Dropdown>
                 <Dropdown.Toggle variant="light" id="dropdown-basic">
                   Students
@@ -23,6 +23,7 @@ export default function navbar(){
           </Navbar.Collapse>
           </div>
         </Navbar>
+        <br/><br/><br/>
     </>
   )
 }

@@ -4,7 +4,7 @@ export default function navbar(){
     <>
     <Navbar fixed="top" bg="light" expand="lg">
         <div className="container text-center">
-          <Navbar.Brand href="#">BSD</Navbar.Brand>
+          <Navbar.Brand href="https://www.senecacollege.ca/programs/fulltime/BSD.html"><span className="text-danger">BSD</span></Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">

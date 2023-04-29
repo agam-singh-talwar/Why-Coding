@@ -2,7 +2,7 @@ import { Accordion } from "react-bootstrap";
 export default function Curriculum() {
   return (
     <>
-      <div className="alert alert-primary" role="alert">
+      <div className="alert alert-info" role="alert">
         The curriculum below is a sample of the courses offered in this program.
         For official curriculum information, please consult the academic
         catalog.
@@ -51,31 +51,31 @@ export default function Curriculum() {
             <Accordion>
               <Accordion.Item eventKey="0">
                 <Accordion.Header>
-                  Programming Fundamentals Using C - BTP 100🧐
+                  BTC240 - Interpersonal Communications in Organizations🧐
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="1">
                 <Accordion.Header>
-                  Operating Systems for Programmers - UNIX - BTO120👾
+                  BTD210 Database Design Principles 👾
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="2">
                 <Accordion.Header>
-                  Writing Strategies - ENG106🏴󠁧󠁢󠁥󠁮󠁧󠁿
+                  BTI225 Web Programming Principles🏴󠁧󠁢󠁥󠁮󠁧󠁿
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="3">
                 <Accordion.Header>
-                  Canadian Business Environment - BTB250🇨🇦
+                  BTL200 Mathematics for Developers🇨🇦
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="4">
                 <Accordion.Header>
-                  Computer Foundations for Developers - BTL100📚
+                  BTP200 The Object-Oriented Paradigm Using C++📚
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
@@ -88,31 +88,31 @@ export default function Curriculum() {
             <Accordion>
               <Accordion.Item eventKey="0">
                 <Accordion.Header>
-                  Programming Fundamentals Using C - BTP 100🧐
+                  BTD315 Advanced Database Technologies🧐
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="1">
                 <Accordion.Header>
-                  Operating Systems for Programmers - UNIX - BTO120👾
+                  BTI325 Web Programming Tools and Frameworks 👾
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="2">
                 <Accordion.Header>
-                  Writing Strategies - ENG106🏴󠁧󠁢󠁥󠁮󠁧󠁿
+                  BTP305 Object-Oriented Software Development Using C++ 🏴󠁧󠁢󠁥󠁮󠁧󠁿
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="3">
                 <Accordion.Header>
-                  Canadian Business Environment - BTB250🇨🇦
+                  BTS330 Business Requirements Analysis Using OO Models🇨🇦
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="4">
                 <Accordion.Header>
-                  Computer Foundations for Developers - BTL100📚
+                  LSP400 Presentation Skills 📚
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
@@ -125,31 +125,31 @@ export default function Curriculum() {
             <Accordion>
               <Accordion.Item eventKey="0">
                 <Accordion.Header>
-                  Programming Fundamentals Using C - BTP 100🧐
+                  BTC440 Business and Technical Writing 🧐
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="1">
                 <Accordion.Header>
-                  Operating Systems for Programmers - UNIX - BTO120👾
+                  BTI425 Web Programming for Apps and Services 👾
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="2">
                 <Accordion.Header>
-                  Writing Strategies - ENG106🏴󠁧󠁢󠁥󠁮󠁧󠁿
+                  BTN415 Data Communications Programming 🏴󠁧󠁢󠁥󠁮󠁧󠁿
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="3">
                 <Accordion.Header>
-                  Canadian Business Environment - BTB250🇨🇦
+                  BTP405 System Development and Design 🇨🇦
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="4">
                 <Accordion.Header>
-                  Computer Foundations for Developers - BTL100📚
+                  BTS435 System Analysis and Design 📚
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
@@ -162,34 +162,34 @@ export default function Curriculum() {
             <Accordion>
               <Accordion.Item eventKey="0">
                 <Accordion.Header>
-                  Programming Fundamentals Using C - BTP 100🧐
+                  BAB235 Introduction to Marketing 🧐
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="1">
                 <Accordion.Header>
-                  Operating Systems for Programmers - UNIX - BTO120👾
+                  BTH545 Principles of GUI Design and Programming 👾
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="2">
                 <Accordion.Header>
-                  Writing Strategies - ENG106🏴󠁧󠁢󠁥󠁮󠁧󠁿
+                  BTP500 Data Structures and Algorithms🏴󠁧󠁢󠁥󠁮󠁧󠁿
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="3">
                 <Accordion.Header>
-                  Canadian Business Environment - BTB250🇨🇦
+                  BTS535 Software Project Management🇨🇦
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
-              <Accordion.Item eventKey="4">
+              {/* <Accordion.Item eventKey="4">
                 <Accordion.Header>
                   Computer Foundations for Developers - BTL100📚
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
-              </Accordion.Item>
+              </Accordion.Item> */}
             </Accordion>
           </Accordion.Body>
         </Accordion.Item>
@@ -199,31 +199,31 @@ export default function Curriculum() {
             <Accordion>
               <Accordion.Item eventKey="0">
                 <Accordion.Header>
-                  Programming Fundamentals Using C - BTP 100🧐
+                  BDM150 Statistical Methods for Data Science🧐
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="1">
                 <Accordion.Header>
-                  Operating Systems for Programmers - UNIX - BTO120👾
+                  BTH650 Advanced User Interface Design👾
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="2">
                 <Accordion.Header>
-                  Writing Strategies - ENG106🏴󠁧󠁢󠁥󠁮󠁧󠁿
+                  BTP605 Design Patterns in the Enterprise🏴󠁧󠁢󠁥󠁮󠁧󠁿
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="3">
                 <Accordion.Header>
-                  Canadian Business Environment - BTB250🇨🇦
+                  BTS530 Major Project - Planning and Design🇨🇦
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="4">
                 <Accordion.Header>
-                  Computer Foundations for Developers - BTL100📚
+                  WTP200 Work Term Preparation📚
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
@@ -236,34 +236,34 @@ export default function Curriculum() {
             <Accordion>
               <Accordion.Item eventKey="0">
                 <Accordion.Header>
-                  Programming Fundamentals Using C - BTP 100🧐
+                  BTE620 Law, Ethics and Social Responsibility 🧐
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="1">
                 <Accordion.Header>
-                  Operating Systems for Programmers - UNIX - BTO120👾
+                  BTH745 Human-Computer Interaction👾
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="2">
                 <Accordion.Header>
-                  Writing Strategies - ENG106🏴󠁧󠁢󠁥󠁮󠁧󠁿
+                  BTN710 Information Security 🏴󠁧󠁢󠁥󠁮󠁧󠁿
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="3">
                 <Accordion.Header>
-                  Canadian Business Environment - BTB250🇨🇦
+                  BTS630 Major Project - Implementation 🇨🇦
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
-              <Accordion.Item eventKey="4">
+              {/* <Accordion.Item eventKey="4">
                 <Accordion.Header>
                   Computer Foundations for Developers - BTL100📚
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
-              </Accordion.Item>
+              </Accordion.Item> */}
             </Accordion>
           </Accordion.Body>
         </Accordion.Item>
@@ -273,17 +273,17 @@ export default function Curriculum() {
             <Accordion>
               <Accordion.Item eventKey="0">
                 <Accordion.Header>
-                  Programming Fundamentals Using C - BTP 100🧐
+                  BTR820 Research Methodologies and Project 🧐
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
               <Accordion.Item eventKey="1">
                 <Accordion.Header>
-                  Operating Systems for Programmers - UNIX - BTO120👾
+                  BTS830 Technology Planning and Acquisition👾
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
               </Accordion.Item>
-              <Accordion.Item eventKey="2">
+              {/* <Accordion.Item eventKey="2">
                 <Accordion.Header>
                   Writing Strategies - ENG106🏴󠁧󠁢󠁥󠁮󠁧󠁿
                 </Accordion.Header>
@@ -300,7 +300,7 @@ export default function Curriculum() {
                   Computer Foundations for Developers - BTL100📚
                 </Accordion.Header>
                 <Accordion.Body></Accordion.Body>
-              </Accordion.Item>
+              </Accordion.Item> */}
             </Accordion>
           </Accordion.Body>
         </Accordion.Item>
